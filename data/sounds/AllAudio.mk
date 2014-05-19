@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/alarms/ogg/Nobelium.ogg:system/media/audio/alarms/Nobelium.ogg \
     $(LOCAL_PATH)/alarms/ogg/Osmium.ogg:system/media/audio/alarms/Osmium.ogg \
     $(LOCAL_PATH)/alarms/ogg/Platinum.ogg:system/media/audio/alarms/Platinum.ogg \
+    $(LOCAL_PATH)/alarms/ogg/Snooze.ogg:system/media/audio/alarms/Snooze.ogg \
     $(LOCAL_PATH)/alarms/ogg/Plutonium.ogg:system/media/audio/alarms/Plutonium.ogg \
     $(LOCAL_PATH)/alarms/ogg/Scandium.ogg:system/media/audio/alarms/Scandium.ogg \
     $(LOCAL_PATH)/notifications/ogg/Adara.ogg:system/media/audio/notifications/Adara.ogg \
@@ -102,6 +103,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/notifications/regulus.ogg:system/media/audio/notifications/regulus.ogg \
     $(LOCAL_PATH)/notifications/sirius.ogg:system/media/audio/notifications/sirius.ogg \
     $(LOCAL_PATH)/notifications/tweeters.ogg:system/media/audio/notifications/tweeters.ogg \
+    $(LOCAL_PATH)/notifications/ogg/Bad_Hat_Harry.ogg:system/media/audio/notifications/Bad_Hat_Harry.ogg \
+    $(LOCAL_PATH)/notifications/ogg/Klaxon.ogg:system/media/audio/notifications/Klaxon.ogg \
+    $(LOCAL_PATH)/notifications/ogg/Law_N_Order.ogg:system/media/audio/notifications/Law_N_Order.ogg \
+    $(LOCAL_PATH)/notifications/ogg/Sonar_Ping.ogg:system/media/audio/notifications/Sonar_Ping.ogg \
     $(LOCAL_PATH)/ringtones/ogg/Andromeda.ogg:system/media/audio/ringtones/Andromeda.ogg \
     $(LOCAL_PATH)/ringtones/ogg/Aquila.ogg:system/media/audio/ringtones/Aquila.ogg \
     $(LOCAL_PATH)/ringtones/ogg/ArgoNavis.ogg:system/media/audio/ringtones/ArgoNavis.ogg \
@@ -145,7 +150,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/newwavelabs/Glacial_Groove.ogg:system/media/audio/ringtones/Glacial_Groove.ogg \
     $(LOCAL_PATH)/newwavelabs/Growl.ogg:system/media/audio/ringtones/Growl.ogg \
     $(LOCAL_PATH)/newwavelabs/HalfwayHome.ogg:system/media/audio/ringtones/HalfwayHome.ogg \
-    $(LOCAL_PATH)/ringtones/ogg/Hydra.ogg:system/media/audio/ringtones/Hydra.ogg \
     $(LOCAL_PATH)/newwavelabs/InsertCoin.ogg:system/media/audio/ringtones/InsertCoin.ogg \
     $(LOCAL_PATH)/ringtones/ogg/Kuma.ogg:system/media/audio/ringtones/Kuma.ogg \
     $(LOCAL_PATH)/newwavelabs/LoopyLounge.ogg:system/media/audio/ringtones/LoopyLounge.ogg \
@@ -199,6 +203,19 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/ringtones/Vespa.ogg:system/media/audio/ringtones/Vespa.ogg \
     $(LOCAL_PATH)/newwavelabs/World.ogg:system/media/audio/ringtones/World.ogg \
     $(LOCAL_PATH)/ringtones/ogg/Zeta.ogg:system/media/audio/ringtones/Zeta.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Hydra.ogg:system/media/audio/ringtones/Hydra.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Cancion_Del_Mariachi.ogg:system/media/audio/ringtones/Cancion_Del_Mariachi.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Country_Song.ogg:system/media/audio/ringtones/Country_Song.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Dead_or_Alive.ogg:system/media/audio/ringtones/Dead_or_Alive.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Dueling_Banjos.ogg:system/media/audio/ringtones/Dueling_Banjos.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Imperial_March.ogg:system/media/audio/ringtones/Imperial_March.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Jenny_Says.ogg:system/media/audio/ringtones/Jenny_Says.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/O_Fortuna.ogg:system/media/audio/ringtones/O_Fortuna.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Old_Phone.ogg:system/media/audio/ringtones/Old_Phone.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Pardon_Me.ogg:system/media/audio/ringtones/Pardon_Me.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Phantom_of_the_Opera.ogg:system/media/audio/ringtones/Phantom_of_the_Opera.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Superman.ogg:system/media/audio/ringtones/Superman.ogg \
+    $(LOCAL_PATH)/ringtones/ogg/Reveille.ogg:system/media/audio/ringtones/Reveille.ogg \
     $(LOCAL_PATH)/effects/ogg/Dock.ogg:system/media/audio/ui/Dock.ogg \
     $(LOCAL_PATH)/effects/ogg/Effect_Tick_48k.ogg:system/media/audio/ui/Effect_Tick.ogg \
     $(LOCAL_PATH)/effects/ogg/KeypressDelete_120_48k.ogg:system/media/audio/ui/KeypressDelete.ogg \

@@ -16,6 +16,7 @@ PRODUCT_COPY_FILES += \
         $(LOCAL_PATH)/alarms/ogg/Oxygen.ogg:system/media/audio/alarms/Oxygen.ogg \
         $(LOCAL_PATH)/alarms/ogg/Osmium.ogg:system/media/audio/alarms/Osmium.ogg \
         $(LOCAL_PATH)/alarms/ogg/Platinum.ogg:system/media/audio/alarms/Platinum.ogg \
+        $(LOCAL_PATH)/alarms/ogg/Snooze.ogg:system/media/audio/alarms/Snooze.ogg \
 	$(LOCAL_PATH)/effects/ogg/Effect_Tick_48k.ogg:system/media/audio/ui/Effect_Tick.ogg \
 	$(LOCAL_PATH)/effects/ogg/KeypressStandard_48k.ogg:system/media/audio/ui/KeypressStandard.ogg \
 	$(LOCAL_PATH)/effects/ogg/KeypressSpacebar_48k.ogg:system/media/audio/ui/KeypressSpacebar.ogg \
@@ -46,6 +47,10 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/notifications/ogg/Talitha.ogg:system/media/audio/notifications/Talitha.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Tejat.ogg:system/media/audio/notifications/Tejat.ogg \
 	$(LOCAL_PATH)/notifications/ogg/Vega.ogg:system/media/audio/notifications/Vega.ogg \
+	$(LOCAL_PATH)/notifications/ogg/Bad_Hat_Harry.ogg:system/media/audio/notifications/Bad_Hat_Harry.ogg \
+	$(LOCAL_PATH)/notifications/ogg/Klaxon.ogg:system/media/audio/notifications/Klaxon.ogg \
+	$(LOCAL_PATH)/notifications/ogg/Law_N_Order.ogg:system/media/audio/notifications/Law_N_Order.ogg \
+	$(LOCAL_PATH)/notifications/ogg/Sonar_Ping.ogg:system/media/audio/notifications/Sonar_Ping.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Andromeda.ogg:system/media/audio/ringtones/Andromeda.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Aquila.ogg:system/media/audio/ringtones/Aquila.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Atria.ogg:system/media/audio/ringtones/Atria.ogg \
@@ -63,4 +68,16 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/ringtones/ogg/Sceptrum.ogg:system/media/audio/ringtones/Sceptrum.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Solarium.ogg:system/media/audio/ringtones/Solarium.ogg \
 	$(LOCAL_PATH)/ringtones/ogg/Themos.ogg:system/media/audio/ringtones/Themos.ogg \
-	$(LOCAL_PATH)/ringtones/ogg/Zeta.ogg:system/media/audio/ringtones/Zeta.ogg
+	$(LOCAL_PATH)/ringtones/ogg/Zeta.ogg:system/media/audio/ringtones/Zeta.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Cancion_Del_Mariachi.ogg:system/media/audio/ringtones/Cancion_Del_Mariachi.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Country_Song.ogg:system/media/audio/ringtones/Country_Song.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Dead_or_Alive.ogg:system/media/audio/ringtones/Dead_or_Alive.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Dueling_Banjos.ogg:system/media/audio/ringtones/Dueling_Banjos.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Imperial_March.ogg:system/media/audio/ringtones/Imperial_March.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Jenny_Says.ogg:system/media/audio/ringtones/Jenny_Says.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/O_Fortuna.ogg:system/media/audio/ringtones/O_Fortuna.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Old_Phone.ogg:system/media/audio/ringtones/Old_Phone.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Pardon_Me.ogg:system/media/audio/ringtones/Pardon_Me.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Phantom_of_the_Opera.ogg:system/media/audio/ringtones/Phantom_of_the_Opera.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Superman.ogg:system/media/audio/ringtones/Superman.ogg \
+	$(LOCAL_PATH)/ringtones/ogg/Reveille.ogg:system/media/audio/ringtones/Reveille.ogg

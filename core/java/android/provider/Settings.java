@@ -7244,6 +7244,12 @@ public final class Settings {
         public static final String LOCKSCREEN_SEE_THROUGH = "lockscreen_see_through";
 
         /**
+         * Allows setting the radius for blur
+         * @hide
+         */
+        public static final String LOCKSCREEN_BLUR_RADIUS = "lockscreen_blur_radius";
+
+        /**
          * Weather to minimize lockscreen challenge on screen turned on
          * @hide
          */
@@ -7273,6 +7279,12 @@ public final class Settings {
          * @hide
          */
         public static final String STATUS_BAR_NETWORK_STATS_TEXT_COLOR = "status_bar_network_stats_text_color";
+
+        /**
+         * Whether to hide the network status in the status bar with no activity
+         * @hide
+         */
+        public static final String STATUS_BAR_NETWORK_STATS_HIDE = "status_bar_network_stats_hide";
 
         /**
          * Whether the phone ringtone should be played in an increasing manner
